@@ -12,7 +12,7 @@ public class Currencyconverter1 {
 
     @Test
     public void test_sek_to_rupees(){
-        assertEquals(90,obj.sek_to_rupees(10));
+        assertEquals(100,obj.sek_to_rupees(10));
     }
 
 }
